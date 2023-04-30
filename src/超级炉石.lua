@@ -6,7 +6,7 @@
 print(">>Script: TeleportStone loading...OK")
 
 --菜单所有者 --默认炉石6948
-local itemEntry	=6948
+local itemEntry	= 6948
 --阵营
 local TEAM_ALLIANCE=0
 local TEAM_HORDE=1
